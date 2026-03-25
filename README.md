@@ -10,25 +10,38 @@ We believe wellness should feel personal, not prescriptive. With Nutracia, your 
 ✨ Key Features
 🧠 HealNav: AI Medical Assistant & Symptom Checker
 AI Symptom Checker: Input your symptoms (e.g., fever, cough, fatigue) and receive personalized health insights, urgency levels, and possible conditions.
+
 Medical Bot: An intelligent chat interface that provides instant health guidance, workout advice, nutrition tips, and stress management techniques.
+
 Health Education Center: A curated library covering Heart Health, Mental Wellness, Sleep Health, and Preventive Care.
+
 🏋️ Personalized Workout Plans
 [cite_start]Dynamic Routines: Tailored fitness plans ranging from Beginner to Advanced, including HIIT Cardio, Core Strength, Mobility Flows, and Upper Body Strength[cite: 56, 62].
 [cite_start]Guided Tutorials: Step-by-step video integrations and instructions targeting specific muscle groups and flexibility goals[cite: 65, 66].
+
 🥗 Intelligent Diet & Nutrition
 [cite_start]Custom Meal Plans: Access specialized diets such as the Mediterranean Diet, Keto, DASH, and Plant-Based Nutrition[cite: 81, 84].
 [cite_start]Allergy & Preference Aware: AI curates food recommendations based on your vital stats, dietary preferences (e.g., Vegetarian), and allergies (e.g., Dairy, Gluten)[cite: 40, 41, 49].
+
 ✨ Science-Backed Skincare
 [cite_start]Custom Routines: Anti-aging protocols, hydration boosts, and acne defense routines tailored specifically to your skin type (e.g., Oily, Dry, Combination)[cite: 74].
+
 Mental & Emotional AI
 🎙️ Voice Therapy (Real-Time AI): A flagship AI therapist providing empathetic voice responses with ultra-low latency (<800ms), powered by Deepgram Nova-2 and LLaMA-3.
+
 📖 Anne's Diary (Multimodal AI): An emotional journal where users can upload photos or voice notes for Gemini 1.5 Flash to analyze and provide deep contextual insights.
+
 😊 Smile Detection (Emotional Gate): A privacy-first awareness gate using face-api.js that detects your mood via webcam before login to prompt personalized wellness check-ins.
+
 🧘 Mind & Soul (CBT Tools): A suite of mental resilience tools including 4-7-8 breathing, guided meditations, sleep protocols, and cognitive restructuring exercises.
+
 🏥 Care & Connectivity
 📍 Nearby Care (Live Google Maps): Instantly locate psychiatrists, therapists, and clinics within 5km, including ratings, hours, and direct booking options.
+
 🤖 AI Health Chatbot: A 24/7 floating assistant trained on medical data to answer queries about any module or provide immediate wellness advice.
+
 🛒 AI-Powered Smart Shopping
+
 Budget-Aware Recommendations: Tell the AI what you need (e.g., "I need high protein supplements for my workout under ₹1000").
 Curated Cart: The AI analyzes products, checks active ingredients, compares prices across platforms, and builds a smart cart for you in seconds.
 ---
