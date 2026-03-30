@@ -44,6 +44,7 @@ Mental & Emotional AI
 
 Budget-Aware Recommendations: Tell the AI what you need (e.g., "I need high protein supplements for my workout under ₹1000").
 Curated Cart: The AI analyzes products, checks active ingredients, compares prices across platforms, and builds a smart cart for you in seconds.
+
 ---
 
 ## ⚡ Quick Start (3 steps)
